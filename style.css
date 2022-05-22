@@ -77,7 +77,7 @@ body {
 .coordinate {
     position: absolute;
     z-index: 99;
-    color: #cfcfcf;
+    color: #e2e2e2;
     bottom: 0;
     left: 0;
     padding: 10px;
