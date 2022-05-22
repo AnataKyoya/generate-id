@@ -65,7 +65,7 @@ body {
     box-shadow: 0 5px 10px #00000059;
     border-radius: 10px;
     color: #ffffff;
-    font-size: 1.4em;
+    font-size: 1.7em;
 }
 
 .header {
@@ -78,7 +78,7 @@ body {
 .coordinate {
     position: absolute;
     z-index: 99;
-    color: #e2e2e2;
+    color: #d3d3d3;
     bottom: 0;
     left: 0;
     padding: 10px;
